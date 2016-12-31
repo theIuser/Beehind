@@ -13,5 +13,5 @@ iPhone 5S<br>
 iPhone 6<br>
 some iPads<br>
 
-Saving shsh for iOS 9 and older won't work.
-
+Saving shsh for iOS 9 and older won't work.<br>
+If you tested a device that's not on my list please give me a feedback @theIuser on Twitter.
