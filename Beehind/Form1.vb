@@ -46,7 +46,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_black
             End If
         ElseIf productname = "iPad2,2" Then
@@ -57,7 +57,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_black
             End If
         ElseIf productname = "iPad2,3" Then
@@ -68,7 +68,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_black
             End If
         ElseIf productname = "iPad2,4" Then
@@ -79,7 +79,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_black
             End If
         ElseIf productname = "iPad2,5" Then
@@ -90,7 +90,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_black
             End If
         ElseIf productname = "iPad2,6" Then
@@ -101,7 +101,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_black
             End If
         ElseIf productname = "iPad2,7" Then
@@ -112,7 +112,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_black
             End If
         ElseIf productname = "iPad3,1" Then
@@ -123,7 +123,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_black
             End If
         ElseIf productname = "iPad3,2" Then
@@ -134,7 +134,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_black
             End If
         ElseIf productname = "iPad3,3" Then
@@ -145,7 +145,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_black
             End If
         ElseIf productname = "iPad3,4" Then
@@ -156,7 +156,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_black
             End If
         ElseIf productname = "iPad3,5" Then
@@ -167,7 +167,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_black
             End If
         ElseIf productname = "iPad3,6" Then
@@ -178,7 +178,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipad234_black
             End If
         ElseIf productname = "iPad4,1" Then
@@ -189,7 +189,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair1_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair1_spacegrey
             End If
         ElseIf productname = "iPad4,2" Then
@@ -200,7 +200,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair1_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair1_spacegrey
             End If
         ElseIf productname = "iPad4,3" Then
@@ -211,7 +211,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair1_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair1_spacegrey
             End If
         ElseIf productname = "iPad4,4" Then
@@ -222,7 +222,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_black
             End If
         ElseIf productname = "iPad4,5" Then
@@ -233,7 +233,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_black
             End If
         ElseIf productname = "iPad4,6" Then
@@ -244,7 +244,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini12_black
             End If
         ElseIf productname = "iPad4,7" Then
@@ -255,7 +255,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini34_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini34_spacegrey
             End If
         ElseIf productname = "iPad4,8" Then
@@ -266,7 +266,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini34_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini34_spacegrey
             End If
         ElseIf productname = "iPad4,9" Then
@@ -277,7 +277,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini34_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini34_spacegrey
             End If
         ElseIf productname = "iPad5,1" Then
@@ -288,7 +288,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini34_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini34_spacegrey
             End If
         ElseIf productname = "iPad5,2" Then
@@ -299,7 +299,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini34_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadmini34_spacegrey
             End If
         ElseIf productname = "iPad5,3" Then
@@ -310,7 +310,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair2_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair2_spacegrey
             End If
         ElseIf productname = "iPad5,4" Then
@@ -321,7 +321,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair2_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair2_spacegrey
             End If
         ElseIf productname = "iPad6,7" Then
@@ -332,7 +332,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadpro_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadpro_spacegrey
             End If
         ElseIf productname = "iPad6,8" Then
@@ -343,7 +343,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadpro_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadpro_spacegrey
             End If
         ElseIf productname = "iPhone1,1" Then
@@ -392,7 +392,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone4s_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone4s_black
             End If
         ElseIf productname = "iPhone5,1" Then
@@ -403,7 +403,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone5_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone5_black
             End If
         ElseIf productname = "iPhone5,2" Then
@@ -414,7 +414,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone5_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone5_black
             End If
         ElseIf productname = "iPhone5,3" Then
@@ -439,7 +439,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone5s_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone5s_spacegrey
             End If
         ElseIf productname = "iPhone6,2" Then
@@ -450,7 +450,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone5s_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone5s_spacegrey
             End If
         ElseIf productname = "iPhone7,1" Then
@@ -461,7 +461,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone6_6s__silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone6_6s__spacegrey
             End If
         ElseIf productname = "iPhone7,2" Then
@@ -472,7 +472,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone66s_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone66s_spacegrey
             End If
         ElseIf productname = "iPhone8,1" Then
@@ -483,7 +483,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone66s_silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone66s_spacegrey
             End If
         ElseIf productname = "iPhone8,2" Then
@@ -494,8 +494,63 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone6_6s__silver
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone6_6s__spacegrey
+            End If
+        ElseIf productname = "iPhone8,4" Then
+            info_devicemodel = "iPhone SE"
+            info_cellularmodel = ""
+            info_64 = True
+            Beehind.Save_SHSH.CableIcon.Image = My.Resources.lightning_gradient
+            Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
+            If info_color = "white" Or info_color = "#e1e4e3" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone5s_silver
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone5s_spacegrey
+            End If
+        ElseIf productname = "iPhone9,1" Then
+            info_devicemodel = "iPhone 7"
+            info_cellularmodel = " Global"
+            info_64 = True
+            Beehind.Save_SHSH.CableIcon.Image = My.Resources.lightning_gradient
+            Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
+            If info_color = "white" Or info_color = "#e1e4e3" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_white
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_spacegrey
+            End If
+        ElseIf productname = "iPhone9,2" Then
+            info_devicemodel = "iPhone 7 Plus"
+            info_cellularmodel = " Global"
+            info_64 = True
+            Beehind.Save_SHSH.CableIcon.Image = My.Resources.lightning_gradient
+            Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
+            If info_color = "white" Or info_color = "#e1e4e3" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_white
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_plus_spacegrey
+            End If
+        ElseIf productname = "iPhone9,3" Then
+            info_devicemodel = "iPhone 7"
+            info_cellularmodel = " GSM"
+            info_64 = True
+            Beehind.Save_SHSH.CableIcon.Image = My.Resources.lightning_gradient
+            Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
+            If info_color = "white" Or info_color = "#e1e4e3" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_white
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_spacegrey
+            End If
+        ElseIf productname = "iPhone9,4" Then
+            info_devicemodel = "iPhone 7 Plus"
+            info_cellularmodel = " GSM"
+            info_64 = True
+            Beehind.Save_SHSH.CableIcon.Image = My.Resources.lightning_gradient
+            Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
+            If info_color = "white" Or info_color = "#e1e4e3" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_white
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_plus_spacegrey
             End If
         ElseIf productname = "iPod1,1" Then
             info_devicemodel = "iPod touch 1G"
@@ -523,7 +578,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, Beehind.Save_SHSH.CableIcon.Location.Y + 5)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipod4_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipod4_black
             End If
         ElseIf productname = "iPod5,1" Then
@@ -534,7 +589,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipod5_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipod5_black
             End If
         ElseIf productname = "iPod7,1" Then
@@ -545,7 +600,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipod6_white
-            ElseIf info_color = "black" Or info_color = "#272728" Then
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipod6_spacegrey
             End If
         ElseIf productname = "AppleTV5,3" Then
@@ -657,7 +712,7 @@ Public Class Form1
     End Sub
 
     Private Sub CreditsToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles CreditsToolStripMenuItem.Click
-        MessageBox.Show("Beehind has been developed by Andrea Bentivegna (@blackgeektuto)" + Environment.NewLine + Environment.NewLine + "Thanks to:" + Environment.NewLine + "@winocm - for kloader and ios-kexec-utils" + Environment.NewLine + "@geohot - for limera1n exploit" + Environment.NewLine + "@pimskeks - for libimobiledevice and idevicerestore source code" + Environment.NewLine + "@Elro74 - for helping in compiling idevicerestore for Windows" + Environment.NewLine + "@xerub, @iSuns9 and few others for Firmware Bundles" + Environment.NewLine + "@taig_Jailbreak - for iOS 8.x Untether Payload" + Environment.NewLine + "@PanguTeam - for iOS 7.1.x Untether Payload" + Environment.NewLine + "@evad3rs - for iOS 7.0.x and 6.0-6.1.2 Untether Payload" + Environment.NewLine + "@iH8Sn0w, @squiffy and @winocm - for iOS 6.1.3-6.1.6 Untether Payload", "Credits/Thanks to:",
+        MessageBox.Show("Beehind has been developed by Andrea Bentivegna (@blackgeektuto)" + Environment.NewLine + "and updated for iOS 10 by @theIuser" + Environment.NewLine + Environment.NewLine + "Thanks to:" + Environment.NewLine + "@winocm - for kloader and ios-kexec-utils" + Environment.NewLine + "@geohot - for limera1n exploit" + Environment.NewLine + "@pimskeks - for libimobiledevice and idevicerestore source code" + Environment.NewLine + "@Elro74 - for helping in compiling idevicerestore for Windows" + Environment.NewLine + "@xerub, @iSuns9 and few others for Firmware Bundles" + Environment.NewLine + "@taig_Jailbreak - for iOS 8.x Untether Payload" + Environment.NewLine + "@PanguTeam - for iOS 7.1.x Untether Payload" + Environment.NewLine + "@evad3rs - for iOS 7.0.x and 6.0-6.1.2 Untether Payload" + Environment.NewLine + "@iH8Sn0w, @squiffy and @winocm - for iOS 6.1.3-6.1.6 Untether Payload", "Credits/Thanks to:",
                                 MessageBoxButtons.OK, MessageBoxIcon.Information)
     End Sub
 
@@ -685,7 +740,11 @@ Public Class Form1
     Public Shared Sub GetInfosFromConnectedDevice()
         rawdeviceinfos = GetDeviceInfos(False)
 
-        info_ios = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("ProductVersion") + 16)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("ProductVersion") + 16)).IndexOf(Environment.NewLine)).Trim()
+        Try
+            info_ios = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("ProductVersion") + 16)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("ProductVersion") + 16)).IndexOf(Environment.NewLine)).Trim()
+        Catch ex As Exception
+            MsgBox("Can't load device info. Please restart Beehind")
+        End Try
         info_build = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("BuildVersion") + 14)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("BuildVersion") + 14)).IndexOf(Environment.NewLine)).Trim()
         info_serialno = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf(Environment.NewLine + "SerialNumber: ") + 14)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("SerialNumber: ") + 14)).IndexOf(Environment.NewLine)).Trim()
         info_ecid = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("UniqueChipID") + 14)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("UniqueChipID") + 14)).IndexOf(Environment.NewLine)).Trim()
@@ -694,6 +753,8 @@ Public Class Form1
         info_hwmodel = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("HardwareModel") + 15)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("HardwareModel") + 15)).IndexOf(Environment.NewLine)).Trim()
         info_udid = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("UniqueDeviceID") + 16)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("UniqueDeviceID") + 16)).IndexOf(Environment.NewLine)).Trim()
         info_color = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("DeviceColor") + 13)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("DeviceColor") + 13)).IndexOf(Environment.NewLine)).Trim()
+        info_bbgoldcertid = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("BasebandCertId") + 16)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("BasebandCertId") + 16)).IndexOf(Environment.NewLine)).Trim()
+        info_bbsnum = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("BasebandSerialNumber") + 22)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("BasebandSerialNumber") + 22)).IndexOf(Environment.NewLine)).Trim()
         ProductNameParser(info_product, info_color)
 
 
@@ -722,6 +783,6 @@ Public Class Form1
         End If
 
 
-        
+
     End Sub
 End Class
