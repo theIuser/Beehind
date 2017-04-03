@@ -346,6 +346,28 @@ Public Class Form1
             ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadpro_spacegrey
             End If
+        ElseIf productname = "iPad6,11" Then
+            info_devicemodel = "iPad 5"
+            info_cellularmodel = " Wi-Fi"
+            info_64 = True
+            Beehind.Save_SHSH.CableIcon.Image = My.Resources.lightning_gradient
+            Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
+            If info_color = "white" Or info_color = "#e1e4e3" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair2_silver
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair2_spacegrey
+            End If
+        ElseIf productname = "iPad6,12" Then
+            info_devicemodel = "iPad 5"
+            info_cellularmodel = " Wi-Fi + 4G"
+            info_64 = True
+            Beehind.Save_SHSH.CableIcon.Image = My.Resources.lightning_gradient
+            Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
+            If info_color = "white" Or info_color = "#e1e4e3" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair2_silver
+            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+                Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.ipadair2_spacegrey
+            End If
         ElseIf productname = "iPhone1,1" Then
             info_devicemodel = "iPhone 2G"
             info_cellularmodel = ""
@@ -483,7 +505,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone66s_silver
-            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+            ElseIf info_color = "black" Or info_color = "#272728" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone66s_spacegrey
             End If
         ElseIf productname = "iPhone8,2" Then
@@ -494,7 +516,7 @@ Public Class Form1
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
             If info_color = "white" Or info_color = "#e1e4e3" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone6_6s__silver
-            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+            ElseIf info_color = "black" Or info_color = "#272728" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone6_6s__spacegrey
             End If
         ElseIf productname = "iPhone8,4" Then
@@ -514,9 +536,9 @@ Public Class Form1
             info_64 = True
             Beehind.Save_SHSH.CableIcon.Image = My.Resources.lightning_gradient
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
-            If info_color = "white" Or info_color = "#e1e4e3" Then
+            If info_color = "white" Or info_color = "2" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_white
-            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+            ElseIf info_color = "black" Or info_color = "1" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_spacegrey
             End If
         ElseIf productname = "iPhone9,2" Then
@@ -525,9 +547,9 @@ Public Class Form1
             info_64 = True
             Beehind.Save_SHSH.CableIcon.Image = My.Resources.lightning_gradient
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
-            If info_color = "white" Or info_color = "#e1e4e3" Then
+            If info_color = "white" Or info_color = "2" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_white
-            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+            ElseIf info_color = "black" Or info_color = "1" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_plus_spacegrey
             End If
         ElseIf productname = "iPhone9,3" Then
@@ -536,9 +558,9 @@ Public Class Form1
             info_64 = True
             Beehind.Save_SHSH.CableIcon.Image = My.Resources.lightning_gradient
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
-            If info_color = "white" Or info_color = "#e1e4e3" Then
+            If info_color = "white" Or info_color = "2" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_white
-            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+            ElseIf info_color = "black" Or info_color = "1" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_spacegrey
             End If
         ElseIf productname = "iPhone9,4" Then
@@ -547,9 +569,9 @@ Public Class Form1
             info_64 = True
             Beehind.Save_SHSH.CableIcon.Image = My.Resources.lightning_gradient
             Beehind.Save_SHSH.CableIcon.Location = New Point(2, 269)
-            If info_color = "white" Or info_color = "#e1e4e3" Then
+            If info_color = "white" Or info_color = "2" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_white
-            ElseIf info_color = "black" Or info_color = "#3b3b3c" Then
+            ElseIf info_color = "black" Or info_color = "1" Then
                 Beehind.Save_SHSH.DeviceIcon.Image = My.Resources.iphone7_plus_spacegrey
             End If
         ElseIf productname = "iPod1,1" Then
@@ -743,7 +765,7 @@ Public Class Form1
         Try
             info_ios = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("ProductVersion") + 16)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("ProductVersion") + 16)).IndexOf(Environment.NewLine)).Trim()
         Catch ex As Exception
-            MsgBox("Can't load device info. Please restart Beehind")
+            MsgBox("Can't load device info. Please restart Beehind. You may need to trust this computer first")
         End Try
         info_build = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("BuildVersion") + 14)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("BuildVersion") + 14)).IndexOf(Environment.NewLine)).Trim()
         info_serialno = (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf(Environment.NewLine + "SerialNumber: ") + 14)).Substring(0, (rawdeviceinfos.Substring(rawdeviceinfos.IndexOf("SerialNumber: ") + 14)).IndexOf(Environment.NewLine)).Trim()
