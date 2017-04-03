@@ -11,6 +11,7 @@ iPhone 5c<br>
 iPhone 5<br>
 iPhone 5S<br>
 iPhone 6<br>
+iPhone 6+<br>
 iPhone 6S<br>
 some iPads<br>
 
